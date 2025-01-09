@@ -16,6 +16,9 @@ Somos una comunidad de usuarios de Linux 🐧. Compartimos conocimientos sobre S
 Nuestros enlaces:
 
 🎥 YouTube:   https://www.youtube.com/c/LinuxerosZapopan
+
 🐦 X/Twitter: https://x.com/lnxzpn 
+
 ✈️ Telegram:  https://t.me/linuxeroszapopan
+
 🌍 Site:      https://linuxeroszapopan.org
