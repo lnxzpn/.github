@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 
@@ -10,3 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Somos una comunidad de usuarios de Linux 🐧. Compartimos conocimientos sobre Software Libre y Código Abierto.
+
+Nuestros enlaces:
+
+🎥 YouTube:   https://www.youtube.com/c/LinuxerosZapopan
+🐦 X/Twitter: https://x.com/lnxzpn 
+✈️ Telegram:  https://t.me/linuxeroszapopan
+🌍 Site:      https://linuxeroszapopan.org
