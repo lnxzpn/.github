@@ -21,4 +21,8 @@ Nuestros enlaces:
 
 ✈️ Telegram:  https://t.me/linuxeroszapopan
 
+📷 Instagram: https://instagram.com/lnxzpn
+ 
+📷 LinkedIn: https://www.linkedin.com/company/lnxzpn
+
 🌍 Site:      https://linuxeroszapopan.org
