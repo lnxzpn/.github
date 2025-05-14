@@ -23,6 +23,6 @@ Nuestros enlaces:
 
 📷 Instagram: https://instagram.com/lnxzpn
  
-📷 LinkedIn: https://www.linkedin.com/company/lnxzpn
+👔 LinkedIn: https://www.linkedin.com/company/lnxzpn
 
 🌍 Site:      https://linuxeroszapopan.org
